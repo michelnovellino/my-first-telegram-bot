@@ -13,6 +13,6 @@
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.3",
     "telegraf": "^3.37.0",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
